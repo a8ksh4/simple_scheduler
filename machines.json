@@ -1,0 +1,8 @@
+[
+    {"hostname": "local1",
+     "faetures": ["mod0", "mod2"]},
+    {"hostname": "local2",
+     "features": ["mod1", "mod2"]},
+    {"hostname": "local3",
+     "features": ["mod0", "mod1"]}
+]
